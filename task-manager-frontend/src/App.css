@@ -1,0 +1,24 @@
+
+body {
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #26365d;
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.card-header {
+  background-color: #26365d;
+  color: white;
+}
+
+.btn {
+  border-radius: 6px;
+}
